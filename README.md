@@ -35,11 +35,11 @@ Coloque o seu arquivo QML na seguinte pasta:
 Face-X-main\central\Screen01.qml
 ```
 ---
-Face-X-main/
-└── central/
-    ├── interface.py          # Script Python que inicializa a aplicação
-    ├── Screen01.qml     # Arquivo principal do QML
-    └── ...         
+Face-X-main/  
+└── central/  
+    ├── interface.py          # Script Python que inicializa a aplicação  
+    ├── Screen01.qml     # Arquivo principal do QML  
+    └── ...           
 ---
 
 ## 3. Exemplo de script para inicialização do arquivo
