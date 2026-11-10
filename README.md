@@ -37,8 +37,8 @@ Face-X-main\central\Screen01.qml
 ---
 Face-X-main/  
 └── central/  
-    ├── interface.py          # Script Python que inicializa a aplicação  
-    ├── Screen01.qml     # Arquivo principal do QML  
+    ├── interface.py          // Script Python que inicializa a aplicação  
+    ├── Screen01.qml     // Arquivo principal do QML  
     └── ...           
 ---
 
