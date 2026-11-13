@@ -1,3 +1,5 @@
+##### NOTA: o painel de informações vai ter que editar porque as informações por causa do mock data, então ele não puxa direto do python ainda (só precisa ajustar isso)
+
 # Guia de Configuração e Execução do QML no Python
 
 Este documento explica quais dependências são necessárias no seu ambiente Python para rodar arquivos `.qml` e a estrutura de pastas correta onde os arquivos devem ser colocados.
